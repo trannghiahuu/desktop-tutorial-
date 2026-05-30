@@ -1,0 +1,6 @@
+{
+  "name": "PGP",
+  "description": "Plane Geometry Practice | Công Cụ Thực Hành Hình Học Phẳng | Sản Phẩm Hỗ Trợ Từ AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
